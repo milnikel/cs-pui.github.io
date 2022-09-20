@@ -202,6 +202,24 @@ _Excerpt_ The Department of Mathematics and Computer Science at the College of t
 
 ------------
 
+### Kenyon College
+{: #kenyon}
+
+_Excerpt_ Kenyon College is seeking a Founding Director for a new Interdisciplinary Program in Computing, a tenure-track position (open rank) beginning in July 2023. A Ph.D. in computer science or closely related discipline is required, as well as prior teaching experience at a U.S. college or university.
+
+Kenyon is seeking to build off strengths in applied computation already existing among our faculty and in our curriculum to begin an interdisciplinary program that will weave together computer science with applications across the arts and sciences. Starting such a program was a key component of Kenyon’s most recent strategic plan. Many details of the nature and character of the program will be established over the next few years, under the guidance of the founding director; a core value essential to the program is a commitment to broad accessibility and participation from students and faculty, across boundaries of both academic discipline as well as racial, gender, socio-economic, and other categories. Evidence of interest in and commitment to both interdisciplinary work and valuing inclusion will be vital to a successful application.
+
+The founding director will be the first faculty member whose primary appointment is to the Program in Computing, and we anticipate additional hires in the coming few years. The founding director will be supported by a diverse group of faculty from across the college with interests in computation. 
+
+- Review of applications will begin on **October 31, 2022**
+- Gambier, Ohio. USA.
+
+[Full Job Posting](https://careers.kenyon.edu/en-us/job/492895/founding-director-interdisciplinary-program-in-computing-tenure-track-position){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+
 ### Lafayette College
 {: #lafayette}
 
